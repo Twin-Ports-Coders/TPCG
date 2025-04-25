@@ -14,3 +14,8 @@ Any questions can be directed to andrea.borich22-at-gmail.com or nate.pollesch-a
 |March 20|Kick-off|Andrea and Nate|
 |May 15|GitHub 101|Nate|
 |July?| | |
+
+
+
+@Andrea - Note that when I cloned this repo over to this organization, it was before the image changes.  Also, the structure of the discussions that I made the old repo at npollesch/twin-ports-coders-group didn't come over either, so we may need to 'remake' the discussions section within the new Twin-Ports-Coders ORG, as it seems like when there is an ORG, the discussions belong to the ORG and not to an individual repo. 
+
