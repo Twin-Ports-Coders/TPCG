@@ -14,6 +14,7 @@ Any questions can be directed to andrea.borich22-at-gmail.com or nate.pollesch-a
 |March 20|Kick-off|Andrea and Nate|
 |May 15|GitHub 101|Nate|
 |Sept 22|GitHub 101 continued|Kris|
+|November?|Topic TBD |Presenter TBD|
 
 ![TPCG_Backgroundimage2](https://github.com/user-attachments/assets/1f6ff3a9-86eb-4c17-afa9-7651b9e04eb3)
 
