@@ -11,11 +11,11 @@ Any questions can be directed to andrea dot borich22-at-gmail dot com or nate do
 ### Meeting Schedule
 | Date | Topic | Presenter |
 |---|---|---|
-|March 20|Kick-off|Andrea Borich and Nate Pollesch|
-|May 15  |GitHub 101 - project management|Nate Pollesch|
-|Sept 22 |GitHub 101 - using GitHub               |Kris Johnson|
-|October |GitHub use case example using functions |Quinn Whiting|
-|December| Shiny! - looking for presenters for lightning round hour :) |TBD|
+|March 20 2025|Kick-off|Andrea Borich and Nate Pollesch|
+|May 15 2025|GitHub 101 - project management|Nate Pollesch|
+|Sept 22 2025|GitHub 101 - using GitHub               |Kris Johnson|
+|October 2025|GitHub use case example using functions |Quinn Whiting|
+|January 2026|Creating a Shiny app|Hannah Nicklay|
 
 ![TPCG_Backgroundimage2](https://github.com/user-attachments/assets/1f6ff3a9-86eb-4c17-afa9-7651b9e04eb3)
 
